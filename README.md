@@ -1,7 +1,3 @@
-Here's a beautifully formatted version of your `WeatherMoodify` project documentation:
-
----
-
 # 🌤️ WeatherMoodify 🎶  
 **Your Personal Mood & Weather Playlist Generator**  
 
@@ -119,8 +115,7 @@ graph LR
 ---
 
 **📝 License:** MIT  
-**🐛 Report Issues:** [GitHub Issues](https://github.com/yourusername/WeatherMoodify/issues)  
-**📬 Contact:** developer@example.com  
+
 
 ---
 
